@@ -1,0 +1,1 @@
+node BetRadarPackageMerge.js D:\projects\BetRadarMock\Builds\Debug\BetRadar.MockApp\Messages\
